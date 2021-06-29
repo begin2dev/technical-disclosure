@@ -1,0 +1,16 @@
+# Use root/mariadb as user/password credentials
+version: '3.8'
+
+services:
+  db:
+    image: mariadb
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: mariadb
+    volumes:
+      - mariadb_data:/var/lib/mysql
+    ports:
+      - 33061:3306
+
+volumes:
+  mariadb_data:
