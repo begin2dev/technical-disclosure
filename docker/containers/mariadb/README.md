@@ -42,7 +42,7 @@ For more information about how to create a docker compose file, visit: [Docker C
 
 ### Docker Exec
 
-    docker exec -it mariadb_db_1 /bin/bash
+    docker compose exec db /bin/bash
 
 ## MariaDB Commands
 
