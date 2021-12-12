@@ -34,8 +34,8 @@ Docker is a set of Platform as a Service (PaaS) products that use OS-level virtu
 With Docker, you can treat containers like extremely lightweight, modular virtual machines. So that, you get flexibility with those containers&mdash;you can create, deploy, copy, and move them from environment to environment, that is really helpful to optimize apps for the cloud.
 
 **Sources**
--   [**Wikipedia**  Docker (software)](https://en.wikipedia.org/wiki/Docker_(software)) (_external link_)
--   [**Red Hat** What is Docker? Overview](https://www.redhat.com/en/topics/containers/what-is-docker#overview) (_external link_)
+-   [**Wikipedia** | Docker (software)](https://en.wikipedia.org/wiki/Docker_(software)) (_external link_)
+-   [**Red Hat** | What is Docker? | Overview](https://www.redhat.com/en/topics/containers/what-is-docker#overview) (_external link_)
 
 
 ## How does Docker work?
@@ -48,7 +48,7 @@ Container tools like Docker provide an image-based deployment model. This makes 
 These tools built on top of Linux containers—what makes Docker user-friendly and unique—gives users unprecedented access to apps, the ability to rapidly deploy, and control over versions and version distribution.
 
 **Sources**
--   [**Red Hat** What is Docker? How does it work?](https://www.redhat.com/en/topics/containers/what-is-docker#how-does-it-work) (_external link_)
+-   [**Red Hat** | What is Docker? | How does it work?](https://www.redhat.com/en/topics/containers/what-is-docker#how-does-it-work) (_external link_)
 
 
 ## What is a Docker container?
@@ -69,8 +69,8 @@ Docker containers that run on Docker Engine:
 -   **Secure** : Applications are safer in containers and Docker provides the strongest default isolation capabilities in the industry
 
 **Sources**
--   [**Docker** What is a Container?](https://www.docker.com/resources/what-container) (_external link_)
--   [**Wikipedia** Docker (software)](https://en.wikipedia.org/wiki/Docker_(software)) (_external link_)
+-   [**Docker** | What is a Container?](https://www.docker.com/resources/what-container) (_external link_)
+-   [**Wikipedia** | Docker (software)](https://en.wikipedia.org/wiki/Docker_(software)) (_external link_)
 
 
 ## Containers vs Virtual Machines
@@ -80,7 +80,7 @@ Containers and virtual machines have similar resource isolation and allocation b
 Containers and VMs used together provide a great deal of flexibility in deploying and managing app
 
 **Sources**
--   [**Docker** What is a Container?](https://www.docker.com/resources/what-container) (_external link_)
+-   [**Docker** | What is a Container?](https://www.docker.com/resources/what-container) (_external link_)
 
 ### Containers
 
@@ -100,7 +100,7 @@ Virtual machines (VMs) are an abstraction of physical hardware turning one serve
 ## Advantages of Docker containers
 
 **Sources**
--   [**Red Hat** What is Docker? Advantages of Docker container](https://www.redhat.com/en/topics/containers/what-is-docker#advantages-of-docker) (_external link_)
+-   [**Red Hat** | What is Docker? | Advantages of Docker container](https://www.redhat.com/en/topics/containers/what-is-docker#advantages-of-docker) (_external link_)
 
 ### Modularity
 
@@ -125,7 +125,7 @@ So, Docker technology is a more granular, controllable, microservices-based appr
 ## Why Docker?
 
 **Sources**
--   [**Docker** Why Docker?](https://www.docker.com/why-docker) (_external link_)
+-   [**Docker** | Why Docker?](https://www.docker.com/why-docker) (_external link_)
 
 ### Developing with Docker
 
@@ -151,7 +151,7 @@ We are building on our unique connected experience from code to cloud for develo
 ## Docker Solutions
 
 **Sources**
--   [**Docker** Get Started](https://www.docker.com/get-started) (_external link_)
+-   [**Docker** | Get Started](https://www.docker.com/get-started) (_external link_)
 
 ### Docker Desktop
 
@@ -161,8 +161,8 @@ Developer productivity tools and a local Kubernetes environment.
 
 Docker Desktop is an application for MacOS and Windows machines for the building and sharing of containerized applications.
 
--   [**Docker Hub** Docker Desktop for Mac](https://hub.docker.com/editions/community/docker-ce-desktop-mac) (_external link_)
--   [**Docker Hub** Docker Desktop for Windows](https://hub.docker.com/editions/community/docker-ce-desktop-windows) (_external link_)
+-   [**Docker Hub** | Docker Desktop for Mac](https://hub.docker.com/editions/community/docker-ce-desktop-mac) (_external link_)
+-   [**Docker Hub** | Docker Desktop for Windows](https://hub.docker.com/editions/community/docker-ce-desktop-windows) (_external link_)
 
 ### Docker Hub
 
@@ -172,9 +172,9 @@ Cloud-based application registry and development team collaboration services.
 
 For developers and those experimenting with Docker, Docker Hub is your starting point into Docker containers. Create an account and start exploring the millions of images that are available from the community and verified publishers.
 
--   [**Docker** Docker Hub](https://www.docker.com/products/docker-hub) (_external link_)
+-   [**Docker** | Docker Hub](https://www.docker.com/products/docker-hub) (_external link_)
 
--   [**Docker Hub** Containerized App Images](https://hub.docker.com/search?q=&type=image) (_external link_)
+-   [**Docker Hub** | Containerized App Images](https://hub.docker.com/search?q=&type=image) (_external link_)
 
 
 ## Get Docker
@@ -182,31 +182,31 @@ For developers and those experimenting with Docker, Docker Hub is your starting 
 You can download and install Docker on multiple platforms.
 
 **Source**
--   [**Docker Docs** Get Docker](https://docs.docker.com/get-docker/) (_external link_)
+-   [**Docker Docs** | Get Docker](https://docs.docker.com/get-docker/) (_external link_)
 
 ### Docker Desktop for Mac
 
 A native application using the macOS sandbox security model which delivers all Docker tools to your Mac.
 
--   [Docker Desktop for Mac](https://docs.docker.com/desktop/mac/install/) (_external link_)
+-   [**Docker Docs** | Docker Desktop for Mac](https://docs.docker.com/desktop/mac/install/) (_external link_)
 
 ### Docker Desktop for Windows
 
 A native Windows application which delivers all Docker tools to your Windows computer.
 
--   [Docker Desktop for Windows](https://docs.docker.com/desktop/windows/install/) (_external link_)
+-   [**Docker Docs** | Docker Desktop for Windows](https://docs.docker.com/desktop/windows/install/) (_external link_)
 
 ### Docker for Linux
 
 Install Docker on a computer which already has a Linux distribution installed.
 
--   [Docker for Linux](https://docs.docker.com/engine/install/) (_external link_)
+-   [**Docker Docs** | Docker for Linux](https://docs.docker.com/engine/install/) (_external link_)
 
 
 ## Docker Get Started
 
 **Source**
--   [**Docker Docs** Get Started](https://docs.docker.com/get-started/) (_external link_)
+-   [**Docker Docs** | Get Started](https://docs.docker.com/get-started/) (_external link_)
 
 Here you will find step-by-step instructions on how to get started with Docker. 
 You’ll learn how to:
@@ -219,7 +219,7 @@ You’ll learn how to:
 ## Docker Tutorial
 
 **Source**
--   [**Docker** Tutorial](https://www.docker.com/101-tutorial) (_external link_)
+-   [**Docker** | Tutorial](https://www.docker.com/101-tutorial) (_external link_)
 
 With this self-paced, hands-on tutorial, you can learn how to build images, run containers, use volumes to persist data and mount in source code, and define your application using Docker Compose.
 You'll even learn about a few advanced topics, such as networking and image building best practices.
@@ -248,20 +248,20 @@ Play with Docker is an interactive playground that allows you to run Docker comm
 ## Docker Reference Documentation
 
 **Source**
--   [**Docker Docs** Reference documentation](https://docs.docker.com/reference/) (_external link_)
+-   [**Docker Docs** | Reference documentation](https://docs.docker.com/reference/) (_external link_)
 
 ### File formats
 
 -   **Dockerfile**: Defines the contents and startup behavior of a single container.
 
-    [**Docker Docs** Dockerfile reference](https://docs.docker.com/engine/reference/builder/) (_external link_)
+    [**Docker Docs** | Dockerfile reference](https://docs.docker.com/engine/reference/builder/) (_external link_)
 
 -   **Compose file**: Defines multi-container application.
 
-    [**Docker Docs** Docker Compose file](https://docs.docker.com/compose/compose-file/) (_external link_)
+    [**Docker Docs** | Docker Compose file](https://docs.docker.com/compose/compose-file/) (_external link_)
 
     Compose documentation:
-    -   [**Docker Docs** Compose User guide](https://docs.docker.com/compose/) (_external link_)
-    -   [**Docker Docs** Installing Compose](https://docs.docker.com/compose/install/) (_external link_)
-    -   [**Docker Docs** Command line reference](https://docs.docker.com/compose/reference/) (_external link_)
+    -   [**Docker Docs** | Compose User guide](https://docs.docker.com/compose/) (_external link_)
+    -   [**Docker Docs** | Installing Compose](https://docs.docker.com/compose/install/) (_external link_)
+    -   [**Docker Docs** | Command line reference](https://docs.docker.com/compose/reference/) (_external link_)
 
