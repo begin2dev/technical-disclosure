@@ -35,7 +35,7 @@ With Docker, you can treat containers like extremely lightweight, modular virtua
 
 **Sources**
 -   [**Wikipedia**  Docker (software)](https://en.wikipedia.org/wiki/Docker_(software)) (_external link_)
--   [**Red Hat** What is Docker? - Overview](https://www.redhat.com/en/topics/containers/what-is-docker#overview) (_external link_)
+-   [**Red Hat** What is Docker? Overview](https://www.redhat.com/en/topics/containers/what-is-docker#overview) (_external link_)
 
 
 ## How does Docker work?
@@ -48,7 +48,7 @@ Container tools like Docker provide an image-based deployment model. This makes 
 These tools built on top of Linux containers—what makes Docker user-friendly and unique—gives users unprecedented access to apps, the ability to rapidly deploy, and control over versions and version distribution.
 
 **Sources**
--   [**Red Hat** What is Docker? - How does it work?](https://www.redhat.com/en/topics/containers/what-is-docker#how-does-it-work) (_external link_)
+-   [**Red Hat** What is Docker? How does it work?](https://www.redhat.com/en/topics/containers/what-is-docker#how-does-it-work) (_external link_)
 
 
 ## What is a Docker container?
@@ -100,7 +100,7 @@ Virtual machines (VMs) are an abstraction of physical hardware turning one serve
 ## Advantages of Docker containers
 
 **Sources**
--   [**Red Hat** What is Docker? - Advantages of Docker container](https://www.redhat.com/en/topics/containers/what-is-docker#advantages-of-docker) (_external link_)
+-   [**Red Hat** What is Docker? Advantages of Docker container](https://www.redhat.com/en/topics/containers/what-is-docker#advantages-of-docker) (_external link_)
 
 ### Modularity
 
@@ -155,7 +155,7 @@ We are building on our unique connected experience from code to cloud for develo
 
 ### Docker Desktop
 
-![Docker Destop](./_imgs/docker-desktop.png)
+![Docker Desktop](./_imgs/docker-desktop.png)
 
 Developer productivity tools and a local Kubernetes environment.
 
@@ -167,13 +167,14 @@ Docker Desktop is an application for MacOS and Windows machines for the building
 ### Docker Hub
 
 ![Docker Hub](./_imgs/docker-hub.png)
+
 Cloud-based application registry and development team collaboration services.
 
 For developers and those experimenting with Docker, Docker Hub is your starting point into Docker containers. Create an account and start exploring the millions of images that are available from the community and verified publishers.
 
 -   [**Docker** Docker Hub](https://www.docker.com/products/docker-hub) (_external link_)
 
--   [**Docker Hub** Containarized App Images](https://hub.docker.com/search?q=&type=image) (_external link_)
+-   [**Docker Hub** Containerized App Images](https://hub.docker.com/search?q=&type=image) (_external link_)
 
 
 ## Get Docker
