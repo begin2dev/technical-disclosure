@@ -250,18 +250,28 @@ Play with Docker is an interactive playground that allows you to run Docker comm
 **Source**
 -   [**Docker Docs** | Reference documentation](https://docs.docker.com/reference/) (_external link_)
 
-### File formats
+### Dockerfile
 
--   **Dockerfile**: Defines the contents and startup behavior of a single container.
+Defines the contents and startup behavior of a single container.
 
-    [**Docker Docs** | Dockerfile reference](https://docs.docker.com/engine/reference/builder/) (_external link_)
+Docker can build images automatically by reading the instructions from a Dockerfile. A Dockerfile is a text document that contains all the commands a user could call on the command line to assemble an image. Using docker build users can create an automated build that executes several command-line instructions in succession.
 
--   **Compose file**: Defines multi-container application.
+**Source**
+-   [**Docker Docs** | Dockerfile reference](https://docs.docker.com/engine/reference/builder/) (_external link_)
 
-    [**Docker Docs** | Docker Compose file](https://docs.docker.com/compose/compose-file/) (_external link_)
+### Compose
 
-    Compose documentation:
-    -   [**Docker Docs** | Compose User guide](https://docs.docker.com/compose/) (_external link_)
-    -   [**Docker Docs** | Installing Compose](https://docs.docker.com/compose/install/) (_external link_)
-    -   [**Docker Docs** | Command line reference](https://docs.docker.com/compose/reference/) (_external link_)
+Defines multi-container application.
+
+Compose is a tool for defining and running multi-container Docker applications. With Compose, you use a YAML file to configure your application’s services. Then, with a single command, you create and start all the services from your configuration. To learn more about all the features of Compose, see the list of features.
+
+Compose works in all environments: production, staging, development, testing, as well as CI workflows. You can learn more about each case in Common Use Cases.
+
+Compose documentation:
+-   [**Docker Docs** | Compose User guide](https://docs.docker.com/compose/) (_external link_)
+-   [**Docker Docs** | Installing Compose](https://docs.docker.com/compose/install/) (_external link_)
+-   [**Docker Docs** | Command line reference](https://docs.docker.com/compose/reference/) (_external link_)
+
+**Source**
+-   [**Docker Docs** | Docker Compose file](https://docs.docker.com/compose/compose-file/) (_external link_)
 
