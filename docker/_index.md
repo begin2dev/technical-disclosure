@@ -2,30 +2,22 @@
 
 -   [What is Docker?](#what-is-docker)
     -   [How does Docker work?](#how-does-docker-work)
-
     -   [What is a Docker container?](#what-is-a-docker-container)
-
     -   [Containers vs Virtual Machines](#containers-vs-virtual-machines)
-
     -   [Advantages of Docker containers](#advantages-of-docker-containers)
-
 -   [Why Docker?](#why-docker)
     -   [Developing with Docker](#developing-with-docker)
-
     -   [All begun with containers](#all-begun-with-containers)
-
 -   [Docker Solutions](#docker-solutions)
     -   [Docker Desktop](#docker-desktop)
-
     -   [Docker Hub](#docker-hub)
-
 -   [Get Docker Desktop](#get-docker-desktop)
-
 -   [Docker Get Started](#docker-get-started)
-
 -   [Docker Tutorial](#docker-tutorial)
-
 -   [Docker Reference Documentation](#docker-reference-documentation)
+    -   [Dockerfile](#dockerfile)
+    -   [Compose](#compose)
+
 
 ## What is Docker?
 
@@ -271,7 +263,7 @@ Compose documentation:
 -   [**Docker Docs** | Compose User guide](https://docs.docker.com/compose/) (_external link_)
 -   [**Docker Docs** | Installing Compose](https://docs.docker.com/compose/install/) (_external link_)
 -   [**Docker Docs** | Command line reference](https://docs.docker.com/compose/reference/) (_external link_)
-
-**Source**
 -   [**Docker Docs** | Docker Compose file](https://docs.docker.com/compose/compose-file/) (_external link_)
 
+**Source**
+-   [**Docker Docs** Docker Compose](https://docs.docker.com/compose/) (_external link_)
