@@ -149,12 +149,33 @@ We are building on our unique connected experience from code to cloud for develo
 
 ![Docker Desktop](./_imgs/docker-desktop.png)
 
-Developer productivity tools and a local Kubernetes environment.
+Docker Desktop is an application that enables you to build and share containerized applications and microservices. Docker Desktop enables development teams to extend their environment to rapidly auto-build, continuously integrate, and collaborate using a secure repository.
 
-Docker Desktop is an application for MacOS and Windows machines for the building and sharing of containerized applications.
+Some of the key features of Docker Desktop include:
+-   Ability to containerize and share any application on any cloud platform, in multiple languages and frameworks
+-   Easy installation and setup of a complete Docker development environment
+-   Includes the latest version of Kubernetes
+-   Automatic updates to keep you up to date and secure
+-   On Windows, the ability to toggle between Linux and Windows Server environments to build applications
+-   Fast and reliable performance with native Windows Hyper-V virtualization
+-   Ability to work natively on Linux through WSL 2 on Windows machines
+-   Volume mounting for code and data, including file change notifications and easy access to running containers on the localhost network
+-   In-container development and debugging with supported IDEs
+
+
+Docker Desktop is an easy-to-install application for your Mac or Windows environment that enables you to build and share containerized applications and microservices.
 
 -   [**Docker Hub** | Docker Desktop for Mac](https://hub.docker.com/editions/community/docker-ce-desktop-mac) (_external link_)
 -   [**Docker Hub** | Docker Desktop for Windows](https://hub.docker.com/editions/community/docker-ce-desktop-windows) (_external link_)
+
+Docker Desktop includes:
+-   Docker Engine
+-   Docker CLI client
+-   Docker Compose
+-   Docker Content Trust
+-   Kubernetes
+-   Credential Helper
+
 
 ### Docker Hub
 
