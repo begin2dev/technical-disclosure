@@ -1,10 +1,10 @@
 # Technical Disclousure
 
--   [Docker](docker/_index.md)
+-   [Git](git/README.md) - Distributed version control system.
+    -   https://git-scm.com/ (_external link_)
 
-    https://www.docker.com/  (_external link_)
+-   [Docker](docker/README.md)
+    -   https://www.docker.com/ (_external link_)
 
-    -   [Docker Basics](docker/docker-basics.md)
     -   Examples
         -   [MySQL Container](docker/examples/mysql-container.md)
-
