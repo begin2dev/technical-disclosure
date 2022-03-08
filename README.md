@@ -6,5 +6,5 @@
 -   [Docker](docker/README.md)
     -   https://www.docker.com/ (_external link_)
 
-    -   Examples
-        -   [MySQL Container](docker/examples/mysql-container.md)
+    -   Examples:
+        -   [MySQL Docker container](docker/examples/mysql-container/README.md)
