@@ -63,7 +63,6 @@ To access the bash shell inside the `mysql` container, just run:
 docker exec -it mysql-db bash
 ```
 
-![Docker container bash shell](_imgs/docker-container-bash-shell.png)
 
 ## Access to container logs
 
@@ -76,8 +75,6 @@ To access the logs inside the `mysql` container, just run:
 ```
 docker logs mysql-db
 ```
-
-![Docker container logs](_imgs/docker-container-logs.png)
 
 ## Connect to container `mysql` database by command line client
 
